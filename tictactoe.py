@@ -3,7 +3,8 @@ turtle.bgcolor("black")
 turtle_object = turtle.Turtle()
 turtle_object.speed(0)
 startx = -150
-starty = 150
+starty = 150 
+
 
 # draw a square
 def square(length, column, row):
