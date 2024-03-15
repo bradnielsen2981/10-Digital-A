@@ -39,9 +39,9 @@ def square(length, column, row):
     turtle_object.penup()
 
         #row 0 #row 1 #row 2
-grid = [['_','_','_'],
-        ['_','_','_'],
-        ['_','_','_']]
+grid = [[0,0,0],
+        [0,0,0],
+        [0,0,0]]
 
 for row in range(3):
     for column in range(3):
